@@ -1,5 +1,5 @@
 ## **Shuvo Kumar Shill**
-### **Studing Computer Science and Engineer**
+### **Studing Computer Science and Engineering**
 
 
 
