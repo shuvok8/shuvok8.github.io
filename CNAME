@@ -1,5 +1,5 @@
-$ dig www.xn--n5b3e7a.xn--54b7fta0cc. +nostats +nocomments +nocmd
-    > ;www.xn--n5b3e7a.xn--54b7fta0cc.                     IN      A
-    > www.xn--n5b3e7a.xn--54b7fta0cc.              3592    IN      CNAME   shuvo-kumar.github.io.
+$ dig www.xn--e6br7a.xn--54b7fta0cc. +nostats +nocomments +nocmd
+    > ;www.xn--e6br7a.xn--54b7fta0cc.                     IN      A  
+    > www.xn--e6br7a.xn--54b7fta0cc.              3592    IN      CNAME   shuvo-kumar.github.io.
     > shuvo-kumar.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
     > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
