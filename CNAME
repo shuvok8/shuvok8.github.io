@@ -1,5 +1,5 @@
-$ dig WWW.EXAMPLE.COM +nostats +nocomments +nocmd
+$ dig WWW.শুভ.বাংলা +nostats +nocomments +nocmd
     > ;WWW.শুভ.বাংলা.                     IN      A
-    > WWW.শুভ.বাংলা.              3592    IN      CNAME   YOUR-USERNAME.github.io.
+    > WWW.শুভ.বাংলা.              3592    IN      CNAME   shuvo-kumar.github.io.
     > shuvo-kumar.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+    > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
